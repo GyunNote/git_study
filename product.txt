@@ -1,1 +1,1 @@
-product : 음료
+product : 컴퓨터
